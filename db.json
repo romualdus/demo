@@ -32,7 +32,7 @@
     { "id": 2, "detail": "How to improve your game", "user": "Michael Keiligh", "action": 2 },
     { "id": 3, "detail": "Social Guru", "user": "Ahmend Yasin", "action": 3 },
     { "id": 4, "detail": "How to become an expert", "user": "John Doe", "action": 4 },
-    { "id": 5, "detail": "How do I start a website design project", "user": "John Grogan", "action": 5}
+    { "id": 5, "detail": "How do I start a website design project", "user": "John Grogan", "action": 5},
     { "id": 6, "detail": "Some marketing tricks", "user": "John Grogan", "action": 6 }
   ],
   "channels": [
@@ -45,6 +45,6 @@
     { "id": 7, "title": "iMedia" },
     { "id": 8, "title": "Creativeye" },
     { "id": 9, "title": "Khan Studios" },
-    { "id": 10, "title": "Yahoo" },
-  ],
+    { "id": 10, "title": "Yahoo" }
+  ]
 }
