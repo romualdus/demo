@@ -1,14 +1,50 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "videos": [
+    { "id": 1, "title": "How to improve your skills" "user": "Waseem Arshad", "views": 43634 },
+    { "id": 2, "title": "How to improve your game" "user": "Michael Keiligh", "views": 235634 },
+    { "id": 3, "title": "How to increase your level" "user": "Ahmend Yasin", "views": 343 },
+    { "id": 4, "title": "This is a title" "user": "John Doe", "views": 6782 },
+    { "id": 5, "title": "How to create videos" "user": "John Grogan", "views": 15673 }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "people": [
+    { "id": 1, "position": "UI Designer" "user": "Waseem Arshad", "views": 923 },
+    { "id": 2, "position": "UX Research" "user": "Michael Keiligh", "views": 126 },
+    { "id": 3, "position": "Frontend Developer" "user": "Ahmend Yasin", "views": 900 },
+    { "id": 4, "position": "Backend Developer" "user": "John Doe", "views": 634 },
+    { "id": 5, "position": "Project Manager" "user": "John Grogan", "views": 283 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "documents": [
+    { "id": 1, "title": "Mobile UI/UX Guide 2013" "user": "Waseem Arshad", "views": 923 },
+    { "id": 2, "title": "HTML5 and usage" "user": "Michael Keiligh", "views": 126 },
+    { "id": 3, "title": "How to become an expert" "user": "Ahmend Yasin", "views": 900 },
+    { "id": 4, "title": "2013 marketing threads" "user": "John Doe", "views": 634 },
+    { "id": 5, "title": "How to become programmer" "user": "John Grogan", "views": 283 }
+  ],
+  "videos": [
+    { "id": 1, "title": "How to improve your skills" "user": "Waseem Arshad", "views": 43634 },
+    { "id": 2, "title": "How to improve your game" "user": "Michael Keiligh", "views": 235634 },
+    { "id": 3, "title": "How to increase your level" "user": "Ahmend Yasin", "views": 343 },
+    { "id": 4, "title": "This is a title" "user": "John Doe", "views": 6782 },
+    { "id": 5, "title": "How to create videos" "user": "John Grogan", "views": 15673 }
+  ],
+  "activity": [
+    { "id": 1, "detail": "Well, I am liking it how it capture the audio of the ambience" "user": "Waseem Arshad", "action": 1 },
+    { "id": 2, "detail": "How to improve your game" "user": "Michael Keiligh", "action": 2 },
+    { "id": 3, "detail": "Social Guru" "user": "Ahmend Yasin", "action": 3 },
+    { "id": 4, "detail": "How to become an expert" "user": "John Doe", "action": 4 },
+    { "id": 5, "detail": "How do I start a website design project" "user": "John Grogan", "action": 5}
+    { "id": 6, "detail": "Some marketing tricks" "user": "John Grogan", "action": 6 }
+  ],
+  "channels": [
+    { "id": 1, "title": "Google" },
+    { "id": 2, "title": "Dribbble" },
+    { "id": 3, "title": "Microsoft" },
+    { "id": 4, "title": "Behance" },
+    { "id": 5, "title": "Weather Channel" },
+    { "id": 6, "title": "Gurus" },
+    { "id": 7, "title": "iMedia" },
+    { "id": 8, "title": "Creativeye" },
+    { "id": 9, "title": "Khan Studios" },
+    { "id": 10, "title": "Yahoo" },
+  ],
 }
