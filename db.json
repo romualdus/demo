@@ -20,13 +20,6 @@
     { "id": 4, "title": "2013 marketing threads", "user": "John Doe", "views": 634 },
     { "id": 5, "title": "How to become programmer", "user": "John Grogan", "views": 283 }
   ],
-  "videos": [
-    { "id": 1, "title": "How to improve your skills", "user": "Waseem Arshad", "views": 43634 },
-    { "id": 2, "title": "How to improve your game", "user": "Michael Keiligh", "views": 235634 },
-    { "id": 3, "title": "How to increase your level", "user": "Ahmend Yasin", "views": 343 },
-    { "id": 4, "title": "This is a title", "user": "John Doe", "views": 6782 },
-    { "id": 5, "title": "How to create videos", "user": "John Grogan", "views": 15673 }
-  ],
   "activity": [
     { "id": 1, "detail": "Well, I am liking it how it capture the audio of the ambience", "user": "Waseem Arshad", "action": 1 },
     { "id": 2, "detail": "How to improve your game", "user": "Michael Keiligh", "action": 2 },
